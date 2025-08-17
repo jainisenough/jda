@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "headless": true,
+    "logging": true,
+    "concurrency": 5,
+    "driverPath": "./driver/msedgedriver.exe"
+}
